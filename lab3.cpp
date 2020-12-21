@@ -61,5 +61,5 @@ int main(){
     }
     i++;
   }
-  cout << "Answer" << numb.top();
+  cout << "Answer " << numb.top();
 }
